@@ -1,0 +1,6 @@
+tensorflow==2.2.0
+mido 
+keras 
+git+https://github.com/louisabraham/python3-midi 
+h5py 
+tqdm
