@@ -8,7 +8,9 @@ Url for dataset which neeeds to be in .rar archive
 Only testet on cuda 10.1 at Vast.ai 
 
 #Instructions
-Set number of epochs, temperature, url for midifile,ftp settings,
+Set number of epochs, temperature, url for midifile, ftp settings
+
+See more info at http://artificialdancemusic.com
 
 example - ./install.sh -e 600 -t "0.4" -f "http://ftp.com/batch.rar" -l "ftp://myftpserevr.com" -u "ftpusername" -p "ftppassword" -d "/ftpfolder" -b "experiment number"
 
