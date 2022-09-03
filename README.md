@@ -4,7 +4,8 @@ Contains the code to generate symbolic music with BachProp from Florian Colombo
 Requirements: 
 Linux 
 Ftp server
-Url for dataset 
+Url for dataset which neeeds to be in .rar archive
+Only testet on cuda 10.1 at Vast.ai 
 
 #Instructions
 Set number of epochs, temperature, url for midifile,ftp settings,
